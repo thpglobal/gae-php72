@@ -1,3 +1,6 @@
 # Migrating to GAE PHP 7.2
 
-* This will have a bunch of stuff and I'll test custom jekyll
+* T
+
+# Remove any unneccessary submodules
+See https://gist.github.com/myusuf3/7f645819ded92bda6677
